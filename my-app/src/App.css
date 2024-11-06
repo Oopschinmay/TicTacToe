@@ -44,3 +44,9 @@ button:hover {
   margin: 0;
   padding: 15px;
 }
+
+.Drawpage {
+  text-align: center;
+  font-size: 3rem;
+  background-color: #D1E9F6;
+}
